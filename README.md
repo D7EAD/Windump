@@ -1,5 +1,5 @@
-<center><h1>Windump</h1></center>
-<center>A Windows tcpdump-esc utility used for monitoring traffic following a specified traffic filter.</center>
+<h1 align="center">Windump</h1>
+<p align="center">A Windows tcpdump-esc utility used for monitoring traffic following a specified traffic filter.</p>
 <hr>
 Windump is a simple-to-use, tcpdump-esc utility used to monitor traffic going through the machine it is running on. It allows for a very flexible filter using WinDivert's filter language in order to inspect specific types of packets. 
 <br><br>
